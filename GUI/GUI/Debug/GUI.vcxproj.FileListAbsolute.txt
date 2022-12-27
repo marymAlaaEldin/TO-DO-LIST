@@ -1,0 +1,4 @@
+G:\final project of collage\first year\GUI\GUI\Debug\GUI.vcxproj.AssemblyReference.cache
+G:\final project of collage\first year\GUI\GUI\Debug\GUI.MyForm.resources
+G:\final project of collage\first year\GUI\GUI\Debug\GUI.vcxproj.GenerateResource.cache
+G:\final project of collage\first year\GUI\GUI\Debug\GUI.vcxproj.CopyComplete
